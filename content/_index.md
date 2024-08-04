@@ -137,9 +137,9 @@ sections:
         - Apr. 2024 - Sep. 2024
           - Teaching Assistant for "Machine Intelligence" Course, Keio University, Graduate School of Science and Technology.
         - Oct. 2023 - Mar. 2024
-          - 慶應義塾大学理工学部情報工学科「情報工学実験第2 - 知能ロボティクス実験」TA
+          - 慶應義塾大学理工学部情報工学科「情報工学実験第2 - 知能ロボティクス実験」TA.
         - Sep. 2022 - Sep. 2022
-          - 横浜市立横浜サイエンスフロンティア高等学校「サイエンスリテラシーⅠ」講師
+          - 横浜市立横浜サイエンスフロンティア高等学校「サイエンスリテラシーⅠ」講師.
           - Slides: [Day1](https://speakerdeck.com/keio_smilab/ysfh-science-literacyi-text2image), [Day2](https://speakerdeck.com/keio_smilab/ysfh-science-literacyi-image2text).
     design:
       columns: '1'
