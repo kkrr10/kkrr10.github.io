@@ -48,6 +48,7 @@ profiles:
 
 interests:
   - Intelligent Robotics
+  - Embodied AI
   - Domestic Service Robots
   - Vision and Language
   - Deep Learning
