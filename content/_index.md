@@ -204,29 +204,113 @@ sections:
         - ロボ學, 「<a href="https://robogaku.jp/news/2023/rsj2022_4f3.html">学生編集委員企画：第40回日本ロボット学会学術講演会レポート（OS16：確率ロボティクスとデータ工学ロボティクス〜認識・行動学習・記号創発〜（4/4））</a>」, 2023年2月14日.
         - Journal Club (in Japanese🎌)
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rrex-bot-remote-referring-expressions-with-a-bag-of-tricks">RREx-BoT [Sigurdsson+, IROS23]</a>
-              <iframe src="https://speakerdeck.com/player/de3b3d9892264e3887a155ca19bcc6de" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/de3b3d9892264e3887a155ca19bcc6de"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-tidybot-personalized-robot-assistance-with-large-language-models">TidyBot [Wu+, IROS23]</a>
-              <iframe src="https://speakerdeck.com/player/ec630b82822f48c6b4a4ea466fa115cf" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/ec630b82822f48c6b4a4ea466fa115cf"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ifor-iterative-flow-minimization-for-robotic-object-rearrangement">IFOR [Goyal+, CVPR22]</a>
-              <iframe src="https://speakerdeck.com/player/db65235c93cd4a56b704d98bf7d3fd54" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/db65235c93cd4a56b704d98bf7d3fd54"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-dialfred-dialogue-enabled-agents-for-embodied-instruction-following">DialFRED [Gao+, RA-L22]</a>
-              <iframe src="https://speakerdeck.com/player/09dbf5f44fc649228d5d28f46eece101" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/09dbf5f44fc649228d5d28f46eece101"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-object-memory-transformer-for-object-goal-navigation">OMT [Fukushima+, ICRA22]</a>
-              <iframe src="https://speakerdeck.com/player/0c95cdd4ea9d48f89e87dbcd6be3cc34" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/0c95cdd4ea9d48f89e87dbcd6be3cc34"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-following-natural-language-instructions-for-household-tasks-with-landmark-guided-search-and-reinforced-pose-adjustment">LGS-RPA [Murray+, RA-L22]</a>
-              <iframe src="https://speakerdeck.com/player/3a1fda53d41d4f61b234b79be0497977" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/3a1fda53d41d4f61b234b79be0497977"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-a-simple-approach-for-visual-rearrangement-3d-mapping-and-semantic-search">Visual Rearrangement [Trabucco+, ICLR23]</a>
-              <iframe src="https://speakerdeck.com/player/c2b65330a2124a5eacc8930016fed7f5" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/c2b65330a2124a5eacc8930016fed7f5"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-doorgym-a-scalable-door-opening-environment-and-baseline-agent">DoorGym [Urakami+, NeurIPSW19]</a>
-              <iframe src="https://speakerdeck.com/player/ebb7b8c222dd4ee880eb439fad66592d" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/ebb7b8c222dd4ee880eb439fad66592d"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-mobile-former-bridging-mobilenet-and-transformer">Mobile-Former [Chen+, CVPR22]</a>
-              <iframe src="https://speakerdeck.com/player/859abebfd5d440d0927705e0a1bcb7bf" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/859abebfd5d440d0927705e0a1bcb7bf"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rapid-exploration-for-open-world-navigation-with-latent-goal-models">RECON [Shah+, CoRL21]</a>
-              <iframe src="https://speakerdeck.com/player/08417036e0204f5e9c81d8464f393fac" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/08417036e0204f5e9c81d8464f393fac"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-iterative-shrinking-for-referring-expression-grounding-using-deep-reinforcement-learning">ISREG [Sun+, CVPR21]</a>
-              <iframe src="https://speakerdeck.com/player/9b57bbf9510a48d6b9c8f76957fbd783" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/9b57bbf9510a48d6b9c8f76957fbd783"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-uniter-universal-image-text-representation-learning">UNITER [Chen+, ECCV20]</a>
-              <iframe src="https://speakerdeck.com/player/f48d829d5bbb41fdadd96044c2e45025" frameborder="0" width="710" height="400" allowfullscreen></iframe>
+              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                  <iframe
+                      src="https://speakerdeck.com/player/f48d829d5bbb41fdadd96044c2e45025"
+                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                      frameborder="0"
+                      allowfullscreen>
+                  </iframe>
+              </div>
     # TODO: KTM?
     design:
       columns: '1'
