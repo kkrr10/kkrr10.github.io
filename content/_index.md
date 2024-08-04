@@ -20,9 +20,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: ubuntu_dog.png
+          filename: robot.png
           filters:
-            brightness: 0.35
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
