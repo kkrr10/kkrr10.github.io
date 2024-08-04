@@ -175,3 +175,5 @@ awards:
 # Biography
 
 I am a Master's student advised by [Prof. Komei Sugiura](https://komeisugiura.jp/index_en.html) at Keio University in Japan.
+
+My goal is to contribute to the realization of human well-being through technological innovations in embodied AI.
