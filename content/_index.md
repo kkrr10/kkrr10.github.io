@@ -127,20 +127,20 @@ sections:
           - Education Internship (Oct. 2019 - Present)
 
         ### 🏫 Professional Memberships
-        - Jul. 2024 - Present
-          - Student Member of <a href="https://www.rsj.or.jp/en/">The Robotics Society of Japan (RSJ)</a>.
-          - Student Editor of <a href="https://www.rsj.or.jp/en/">The Robotics Society of Japan (RSJ)</a>.
-        - Apr. 2023 - Present
-          - Student Member of <a href="https://www.ai-gakkai.or.jp/en/">The Japanese Society for Artificial Intelligence (JSAI)</a>.
+        - <a href="https://www.rsj.or.jp/en/">The Robotics Society of Japan (RSJ)</a>
+          - Student Member (Jul. 2024 - Present)
+          - Student Editor (Jul. 2024 - Present)
+        - <a href="https://www.ai-gakkai.or.jp/en/">The Japanese Society for Artificial Intelligence (JSAI)</a>
+          - Student Member (Apr. 2023 - Present)
 
         ### 📘 Teaching
-        - Apr. 2024 - Sep. 2024
-          - Teaching Assistant for "Machine Intelligence" Course, Keio University, Graduate School of Science and Technology.
-        - Oct. 2023 - Mar. 2024
-          - 慶應義塾大学理工学部情報工学科「情報工学実験第2 - 知能ロボティクス実験」TA.
-        - Sep. 2022 - Sep. 2022
-          - 横浜市立横浜サイエンスフロンティア高等学校「サイエンスリテラシーⅠ」講師.
-          - Slides: <a href="https://speakerdeck.com/keio_smilab/ysfh-science-literacyi-text2image">Day1</a>, <a href="https://speakerdeck.com/keio_smilab/ysfh-science-literacyi-image2text">Day2</a>.
+        - "Machine Intelligence" at Keio University, Graduate School of Science and Technology
+          - Teaching Assistant (Apr. 2024 - Sep. 2024)
+        - 慶應義塾大学理工学部情報工学科「情報工学実験第2 - 知能ロボティクス実験」
+          - Teaching Assistant (Oct. 2023 - Mar. 2024)
+        - 横浜市立横浜サイエンスフロンティア高等学校「<a href="https://www.edu.city.yokohama.lg.jp/school/hs/sfh/index.cfm/32,0,77,html">サイエンスリテラシーⅠ</a>」
+          - 講師 (Sep. 2022 - Sep. 2022)
+          - Slides: <a href="https://speakerdeck.com/keio_smilab/ysfh-science-literacyi-text2image">Day1</a>, <a href="https://speakerdeck.com/keio_smilab/ysfh-science-literacyi-image2text">Day2</a>
     design:
       columns: '1'
       spacing:
