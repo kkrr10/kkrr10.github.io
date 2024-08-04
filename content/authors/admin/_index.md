@@ -154,7 +154,7 @@ awards:
     date: '2020-09-26'
     awarder: NHK学生ロボコン 2020
     summary: |
-      国内最大規模の大学対抗ロボット競技会にて，ラグビーを行う自律移動ロボットの開発に携わり第5位/24チーム, <a href="https://keiorogiken.wordpress.com/2020/09/27/nhk%e5%ad%a6%e7%94%9f%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32020%e3%81%a7%e6%8a%95%e7%a5%a85%e4%bd%8d%e3%82%92%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/">blog</a>, <a href="https://youtube.com/watch?v=fSff3bWeQ1U">video1</a>, <a href="https://www.youtube.com/watch?v=riISw292mY8">video2</a>, <a href="https://www.youtube.com/watch?v=riISw292mY8">video3</a>.
+      国内最大規模の大学対抗ロボット競技会にて，ラグビーを行う自律移動ロボットの開発に携わり第5位/24チーム, <a href="https://keiorogiken.wordpress.com/2020/09/27/nhk%e5%ad%a6%e7%94%9f%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32020%e3%81%a7%e6%8a%95%e7%a5%a85%e4%bd%8d%e3%82%92%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/">blog</a>, <a href="https://youtube.com/watch?v=fSff3bWeQ1U">video1</a>, <a href="https://www.youtube.com/watch?v=riISw292mY8">video2</a>, <a href="https://www.youtube.com/watch?v=x35i-Pcxkqs">video3</a>.
   - title: 第4位
     url: https://aws.amazon.com/jp/robot-delivery-challenge/
     date: '2020-09-15'
