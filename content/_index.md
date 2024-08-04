@@ -117,14 +117,14 @@ sections:
       subtitle: ''
       text: |
         ### 🏢 Employments
-        - [Toyota Motor Corporation Frontier Research Center](https://global.toyota/en/mobility/frontier-research/), Aichi.
-            - Research Internship (Aug. 2023 - Sep. 2023)
-        - [Keio University](https://www.keio.ac.jp/en/), Kanagawa.
-            - Research Assistant (Apr. 2023 - Present)
-        -  [Sony Corporation](https://www.sony.net/), Tokyo.
-            - Software Engineer Internship (Aug. 2021 - Sep. 2021)
-        - [Keio University AI and Advanced Programming Consortium](https://aic.keio.ac.jp/en/), Kanagawa.
-            - Education Internship (Oct. 2019 - Present)
+        - <a href="https://global.toyota/en/mobility/frontier-research/">Toyota Motor Corporation Frontier Research Center</a>, Aichi.
+          - Research Internship (Aug. 2023 - Sep. 2023)
+        - <a href="https://www.keio.ac.jp/en/">Keio University</a>, Kanagawa.
+          - Research Assistant (Apr. 2023 - Present)
+        - <a href="https://www.sony.net/">Sony Corporation</a>, Tokyo.
+          - Software Engineer Internship (Aug. 2021 - Sep. 2021)
+        - <a href="https://aic.keio.ac.jp/en/">Keio University AI and Advanced Programming Consortium</a>, Kanagawa.
+          - Education Internship (Oct. 2019 - Present)
 
         ### 🏫 Professional Memberships
         - Jul. 2024 - Present
