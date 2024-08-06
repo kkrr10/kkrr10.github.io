@@ -159,7 +159,7 @@ sections:
         1. <div style="font-size: 0.8em">Repayment Exemption of <a href="https://www.jasso.go.jp/en/index.html">JASSO Scholarship (Category 1)</a>, <strong>JPY 1,584,000</strong>, Apr. 2023 - Sep. 2024.</div>
         1. <div style="font-size: 0.8em">Keio Graduate School Scholarship, <strong>JPY 250,000</strong>, 2024.</div>
         1. <div style="font-size: 0.8em">Keio Graduate School Scholarship, <strong>JPY 500,000</strong>, 2023.</div>
-        1. <div style="font-size: 0.8em"><a href="https://www.dentsu-ikueikai.or.jp/scholarship/graduate/outline/">DENTSU Scholarship Foundation for Graduate Students</a>, <strong>JPY 1,440,000</strong>, Apr. 2023 - Sep. 2024.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.dentsu-ikueikai.or.jp/scholarship/">DENTSU Scholarship Foundation for Graduate Students</a>, <strong>JPY 1,440,000</strong>, Apr. 2023 - Sep. 2024.</div>
         1. <div style="font-size: 0.8em">Keio University Scholarship, <strong>JPY 250,000</strong>, 2022.</div>
         1. <div style="font-size: 0.8em">Keio University Faculty of Science and Technology Alumni Association Scholarship, <strong>JPY 600,000</strong>, 2022.</div>
         1. <div style="font-size: 0.8em">Keio University Scholarship, <strong>JPY 250,000</strong>, 2021.</div>
@@ -167,7 +167,7 @@ sections:
         1. <div style="font-size: 0.8em">Fudosan Mita-kai Scholarship, <strong>JPY 100,000</strong>, 2020.</div>
         1. <div style="font-size: 0.8em">Keio University Scholarship, <strong>JPY 500,000</strong>, 2020.</div>
         1. <div style="font-size: 0.8em">Keio University Iji-kai Scholarship, <strong>JPY 800,000</strong>, 2019.</div>
-        1. <div style="font-size: 0.8em"><a href="https://www.dentsu-ikueikai.or.jp/scholarship/college/about/">DENTSU Scholarship Foundation for Undergraduate Students</a>, <strong>JPY 3,360,000</strong>, Apr. 2019 - Mar. 2023.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.dentsu-ikueikai.or.jp/scholarship/">DENTSU Scholarship Foundation for Undergraduate Students</a>, <strong>JPY 3,360,000</strong>, Apr. 2019 - Mar. 2023.</div>
     design:
       columns: '1'
       # background:
