@@ -84,6 +84,8 @@ sections:
         1. <div style="font-size: 0.8em">K. Kaneda*, <u><strong>R. Korekata*</u></strong>, Y. Wada*, S. Nagashima*, ○M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, K. Sugiura, "DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training," <strong>IEEE/CVF CVPR</strong> (Embodied AI Workshop), Vancouver, Jun. 2023, <a href="https://embodied-ai.org/papers/2023/23.pdf">pdf</a>, <a href="https://github.com/keio-smilab23/DialMAT">code</a>, <a href="uploads/kaneda_cvprw23_dialmat/slide.pdf">slide</a>, <a href="uploads/kaneda_cvprw23_dialmat/poster.pdf">poster</a>. (<strong>*equal contribution</strong>, 🏆<a href="https://embodied-ai.org/cvpr2023/"><strong>1st Place in DialFRED Challenge</strong></a>)</div>
         1. <div style="font-size: 0.8em"><u><strong>○R. Korekata</u></strong>, Y. Yoshida, S. Ishikawa, K. Sugiura, "Switching Funnel UNITER: Multimodal Instruction Comprehension for Object Manipulation Tasks," <strong>IEEE/RSJ IROS</strong> (Late Breaking Results), Kyoto, Oct. 2022, <a href="uploads/korekata_iros22_switching/poster.pdf">poster</a>.</div>
 
+        <a href="./slides/#international" style="color: #4B65E2;">See All Slides></a>
+
         ### Domestic Conference (in Japanese🎌)
         1. <div style="font-size: 0.8em">○今井悠人, <u><strong>是方諒介</u></strong>, 杉浦孔明, "Dense Textを用いたマルチモーダルLLMに基づく大規模屋内環境における物体検索," 第42回日本ロボット学会学術講演会, 1L5-01, 大阪, 2024年9月.</div>
         1. <div style="font-size: 0.8em">○八島大地, <u><strong>是方諒介</u></strong>, 杉浦孔明, "Multimodal LLMと二重緩和損失に基づく実世界検索エンジン," 第42回日本ロボット学会学術講演会, 3D2-07, 大阪, 2024年9月.</div>
@@ -96,6 +98,8 @@ sections:
         1. <div style="font-size: 0.8em"><u><strong>○是方諒介</u></strong>, 神原元就, 吉田悠, 石川慎太朗, 川崎陽祐, 髙橋正樹, 杉浦孔明, "Switching Head–Tail Funnel UNITERによる対象物体および配置目標に関する指示文理解と物体操作," 第37回人工知能学会全国大会, 2G4-OS-21d-01, 熊本, 2023年6月, <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d01/_pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/jsai23-switching-head-tail-funnel-uniter-multimodal-instruction-comprehension-for-object-manipulation-tasks">slide</a>.</div>
         1. <div style="font-size: 0.8em"><u><strong>○是方諒介</u></strong>, "Switching Head–Tail Funnel UNITERによる対象物体および配置目標に関する指示文理解と物体操作," AICカンファレンス 2023, 神奈川, 2023年3月, <a href="https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO11003001-20230304-0030">pdf</a>, <a href="uploads/korekata_aic23/poster.pdf">poster</a>.</div>
         1. <div style="font-size: 0.8em"><u><strong>○是方諒介</u></strong>, 吉田悠, 石川慎太朗, 杉浦孔明, "物体操作タスクにおけるSwitching Funnel UNITERによる対象物体および配置目標に関する指示文理解," 第40回日本ロボット学会学術講演会, 4F3-05, 東京, 2022年9月, <a href="https://smilab.org/pdf/2022/2022-10-11T16:16:03+09:00_Ryosuke_Korekata.pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/rsj22-switching-funnel-uniter-multimodal-instruction-comprehension-for-object-manipulation-tasks">slide</a>.</div>
+
+        <a href="./slides/#domestic" style="color: #4B65E2;">See All Slides></a>
     design:
       columns: '1'
       spacing:
@@ -206,113 +210,19 @@ sections:
         - <a href="https://www.oreilly.co.jp/books/9784873119755/">ゼロから作るDeep Learning ❹ ―強化学習編</a>, <a href="https://tree-radius-a8e.notion.site/442ed77a97a64bd8aa5527fe66009817?v=dedb2b6f537c49278d07f6c8e7ebbbea">公開レビュー</a>, 2022年4月6日.
         - Journal Club (in Japanese🎌)
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rrex-bot-remote-referring-expressions-with-a-bag-of-tricks">RREx-BoT [Sigurdsson+, IROS23]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/de3b3d9892264e3887a155ca19bcc6de"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-tidybot-personalized-robot-assistance-with-large-language-models">TidyBot [Wu+, IROS23]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/ec630b82822f48c6b4a4ea466fa115cf"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ifor-iterative-flow-minimization-for-robotic-object-rearrangement">IFOR [Goyal+, CVPR22]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/db65235c93cd4a56b704d98bf7d3fd54"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-dialfred-dialogue-enabled-agents-for-embodied-instruction-following">DialFRED [Gao+, RA-L22]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/09dbf5f44fc649228d5d28f46eece101"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-object-memory-transformer-for-object-goal-navigation">OMT [Fukushima+, ICRA22]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/0c95cdd4ea9d48f89e87dbcd6be3cc34"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-following-natural-language-instructions-for-household-tasks-with-landmark-guided-search-and-reinforced-pose-adjustment">LGS-RPA [Murray+, RA-L22]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/3a1fda53d41d4f61b234b79be0497977"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-a-simple-approach-for-visual-rearrangement-3d-mapping-and-semantic-search">Visual Rearrangement [Trabucco+, ICLR23]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/c2b65330a2124a5eacc8930016fed7f5"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-doorgym-a-scalable-door-opening-environment-and-baseline-agent">DoorGym [Urakami+, NeurIPSW19]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/ebb7b8c222dd4ee880eb439fad66592d"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-mobile-former-bridging-mobilenet-and-transformer">Mobile-Former [Chen+, CVPR22]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/859abebfd5d440d0927705e0a1bcb7bf"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rapid-exploration-for-open-world-navigation-with-latent-goal-models">RECON [Shah+, CoRL21]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/08417036e0204f5e9c81d8464f393fac"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-iterative-shrinking-for-referring-expression-grounding-using-deep-reinforcement-learning">ISREG [Sun+, CVPR21]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/9b57bbf9510a48d6b9c8f76957fbd783"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-uniter-universal-image-text-representation-learning">UNITER [Chen+, ECCV20]</a>
-              <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
-                  <iframe
-                      src="https://speakerdeck.com/player/f48d829d5bbb41fdadd96044c2e45025"
-                      style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
-                      frameborder="0"
-                      allowfullscreen>
-                  </iframe>
-              </div>
+
+          <a href="./slides/#journal-club" style="color: #4B65E2;">See All Slides></a>
     # TODO: KTM?
     design:
       columns: '1'

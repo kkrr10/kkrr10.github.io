@@ -25,3 +25,6 @@ main:
   - name: Skills
     url: /#skills
     weight: 26
+  - name: Slides
+    url: slides/
+    weight: 30
