@@ -203,7 +203,10 @@ sections:
       title: '📰 Misc'
       subtitle: ''
       text: |
-        - JIJI.com, 「<a href="https://www.jiji.com/jc/article?k=2024041801147&g=soc">ＡＩ研究の学生にエール　米国国連大使</a>」, 2024年4月18日. (ほか多数)
+        - Research demonstration for the U.S. Ambassador to the United Nations and the State Minister for Foreign Affairs of Japan.
+          - Keio University, "<a href="https://www.keio.ac.jp/en/news/2024/Apr/30/48-158580/">US Ambassador to the United Nations Linda Thomas-Greenfield Visits Keio University</a>," Apr. 30, 2024.
+          - Ministry of Foreign Affairs of Japan, "<a href="https://www.mofa.go.jp/press/release/pressite_000001_00289.html">Participation of State Minister for Foreign Affairs TSUJI Kiyoto in Japan-U.S. Joint Event on Artificial Intelligence (AI)</a>," Apr. 18, 2024.
+          - JIJI.com, 「<a href="https://www.jiji.com/jc/article?k=2024041801147&g=soc">ＡＩ研究の学生にエール　米国国連大使</a>」, 2024年4月18日. (ほか多数)
         - <a href="https://www.oreilly.co.jp/books/9784814400591/">ゼロから作るDeep Learning ❺ ―生成モデル編</a>, <a href="https://tree-radius-a8e.notion.site/80f8bfc333d244fdbd1f69a2acd37dc0">公開レビュー</a>, 2024年4月10日.
         - 「<a href="https://www.ymd.nii.ac.jp/tid-crest/event/jst-crest-imaiyamadasympo2024">JST CREST今井・山田チーム合同シンポジウム2024『信頼と文脈の研究がもたらす新たな人工知能』</a> 」, 2024年2月20日.
         - ロボ學, 「<a href="https://robogaku.jp/news/2023/rsj2022_4f3.html">学生編集委員企画：第40回日本ロボット学会学術講演会レポート（OS16：確率ロボティクスとデータ工学ロボティクス〜認識・行動学習・記号創発〜（4/4））</a>」, 2023年2月14日.
