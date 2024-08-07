@@ -16,9 +16,8 @@ marketing:
     org_name: ''
     description: "I am a Master's student advised by Prof. Komei Sugiura at Keio University in Japan. My goal is to contribute to the realization of human well-being through technological innovations in embodied AI."
     twitter: 'GetResearchDev'
-# TODO:
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-C6V8HG8R7K'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
