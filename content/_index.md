@@ -84,7 +84,7 @@ sections:
         1. <div style="font-size: 0.8em">K. Kaneda*, <u><strong>R. Korekata*</u></strong>, Y. Wada*, S. Nagashima*, ○M. Kambara, Y. Iioka, H. Matsuo, Y. Imai, T. Nishimura, K. Sugiura, "DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training," <strong>IEEE/CVF CVPR</strong> (Embodied AI Workshop), Vancouver, Jun. 2023, <a href="https://embodied-ai.org/papers/2023/23.pdf">pdf</a>, <a href="https://github.com/keio-smilab23/DialMAT">code</a>, <a href="uploads/kaneda_cvprw23_dialmat/slide.pdf">slide</a>, <a href="uploads/kaneda_cvprw23_dialmat/poster.pdf">poster</a>. (<strong>*equal contribution</strong>, 🏆<a href="https://embodied-ai.org/cvpr2023/"><strong>1st Place in DialFRED Challenge</strong></a>)</div>
         1. <div style="font-size: 0.8em"><u><strong>○R. Korekata</u></strong>, Y. Yoshida, S. Ishikawa, K. Sugiura, "Switching Funnel UNITER: Multimodal Instruction Comprehension for Object Manipulation Tasks," <strong>IEEE/RSJ IROS</strong> (Late Breaking Results), Kyoto, Oct. 2022, <a href="uploads/korekata_iros22_switching/poster.pdf">poster</a>.</div>
 
-        <a href="./slides/#international" style="color: #4B65E2;">See All Slides></a>
+        <a href="./slides/#international" style="color: #4B65E2;">See All Slides ></a>
 
         ### Domestic Conference (in Japanese🎌)
         1. <div style="font-size: 0.8em">○今井悠人, <u><strong>是方諒介</u></strong>, 杉浦孔明, "Dense Textを用いたマルチモーダルLLMに基づく大規模屋内環境における物体検索," 第42回日本ロボット学会学術講演会, 1L5-01, 大阪, 2024年9月.</div>
@@ -99,7 +99,7 @@ sections:
         1. <div style="font-size: 0.8em"><u><strong>○是方諒介</u></strong>, "Switching Head–Tail Funnel UNITERによる対象物体および配置目標に関する指示文理解と物体操作," AICカンファレンス 2023, 神奈川, 2023年3月, <a href="https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO11003001-20230304-0030">pdf</a>, <a href="uploads/korekata_aic23/poster.pdf">poster</a>.</div>
         1. <div style="font-size: 0.8em"><u><strong>○是方諒介</u></strong>, 吉田悠, 石川慎太朗, 杉浦孔明, "物体操作タスクにおけるSwitching Funnel UNITERによる対象物体および配置目標に関する指示文理解," 第40回日本ロボット学会学術講演会, 4F3-05, 東京, 2022年9月, <a href="https://smilab.org/pdf/2022/2022-10-11T16:16:03+09:00_Ryosuke_Korekata.pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/rsj22-switching-funnel-uniter-multimodal-instruction-comprehension-for-object-manipulation-tasks">slide</a>.</div>
 
-        <a href="./slides/#domestic" style="color: #4B65E2;">See All Slides></a>
+        <a href="./slides/#domestic" style="color: #4B65E2;">See All Slides ></a>
     design:
       columns: '1'
       spacing:
@@ -222,7 +222,7 @@ sections:
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-iterative-shrinking-for-referring-expression-grounding-using-deep-reinforcement-learning">ISREG [Sun+, CVPR21]</a>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-uniter-universal-image-text-representation-learning">UNITER [Chen+, ECCV20]</a>
 
-          <a href="./slides/#journal-club" style="color: #4B65E2;">See All Slides></a>
+          <a href="./slides/#journal-club" style="color: #4B65E2;">See All Slides ></a>
     # TODO: KTM?
     design:
       columns: '1'
