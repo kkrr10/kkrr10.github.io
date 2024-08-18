@@ -86,6 +86,9 @@ sections:
 
         <a href="./slides/#international" style="color: #4B65E2;">See All Slides ></a>
 
+        ### Under Review
+        1. <div style="font-size: 0.8em"><u><strong>R. Korekata</strong></u>, K. Kaneda, S. Nagashima, Y. Imai, K. Sugiura, "DM<sup>2</sup>RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions," arXiv preprint arXiv:2408.07910, 2024, <a href="https://arxiv.org/pdf/2408.07910">pdf</a>, <a href="https://kkrr10.github.io/dm2rm/">project page</a>, <a href="https://kkrr10.github.io/dm2rm/#video">video</a>.</div>
+
         ### Domestic Conference (in Japanese🎌)
         1. <div style="font-size: 0.8em">○今井悠人, <u><strong>是方諒介</u></strong>, 杉浦孔明, "Dense Textを用いたマルチモーダルLLMに基づく大規模屋内環境における物体検索," 第42回日本ロボット学会学術講演会, 1L5-01, 大阪, 2024年9月.</div>
         1. <div style="font-size: 0.8em">○八島大地, <u><strong>是方諒介</u></strong>, 杉浦孔明, "Multimodal LLMと二重緩和損失に基づく実世界検索エンジン," 第42回日本ロボット学会学術講演会, 3D2-07, 大阪, 2024年9月.</div>
