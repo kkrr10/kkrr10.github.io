@@ -55,11 +55,12 @@ interests:
   - Foundation Models
 
 education:
-  - area: Ph.D. student of Engineering in Computer Science, 2024 -
+  # - area: Ph.D. student in Information and Computer Science, Sep. 2024 - Present
+  #   institution: Keio University
+  - area: M.S. in Information and Computer Science, Apr. 2023 - Present
+  # - area: M.S. in Information and Computer Science, Apr. 2023 - Sep. 2024
     institution: Keio University
-  - area: M.S. in Computer Science, 2024 (Expected)
-    institution: Keio University
-  - area: B.E. in Computer Science, 2023
+  - area: B.E. in Information and Computer Science, Apr. 2019 - Mar. 2023
     institution: Keio University
 
 # Skills
