@@ -30,6 +30,24 @@ sections:
             </div>
 
         ### Domestic Conference (in Japanese🎌)<a name="domestic"></a>
+        1. <a href="https://speakerdeck.com/keio_smilab/rsj24-object-retrieval-in-large-scale-indoor-environments-using-dense-text-with-a-multi-modal-large-language-model">[今井+, RSJ24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/1c25ec1ec6aa445d8308a2eeebc4ee2a"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        1. <a href="https://speakerdeck.com/keio_smilab/rsj24-open-vocabulary-mobile-manipulation-based-on-dual-relaxed-contrastive-learning-with-dense-labeling">[八島+, RSJ24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/cf0e0f1bd2e245799a769c76174bab28"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
         1. <a href="https://speakerdeck.com/keio_smilab/jsai24-dm2rm-dual-mode-multimodal-ranking-for-target-objects-and-receptacles-based-on-open-vocabulary-instructions">[是方+, JSAI24]</a>
             <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
                 <iframe
