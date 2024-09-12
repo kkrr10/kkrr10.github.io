@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rkorekata@keio.jp'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
+  - icon: brands/x
+    url: https://x.com/kkrr10_
   - icon: brands/github
     url: https://github.com/kkrr10
   # TODO:
