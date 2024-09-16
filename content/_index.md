@@ -141,6 +141,8 @@ sections:
           - Student Member (Apr. 2023 - Present)
 
         ### 📘 Teaching
+        - 慶應義塾大学理工学部情報工学科「機械学習基礎」
+          - Teaching Assistant (Oct. 2024 - Mar. 2025)
         - "Machine Intelligence" at Keio University, Graduate School of Science and Technology
           - Teaching Assistant (Apr. 2024 - Sep. 2024)
         - 慶應義塾大学理工学部情報工学科「情報工学実験第2 - 知能ロボティクス実験」
