@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,11 +55,10 @@ interests:
   - Foundation Models
 
 education:
-  # - area: Ph.D. student in Information and Computer Science, Sep. 2024 - Present
-  #   institution: Keio University
+  - area: Ph.D. student in Information and Computer Science
+    institution: Keio University, Sep. 2024 - Present
   - area: "M.S. in Information and Computer Science (GPA: 3.93/4.00)"
-  # - area: M.S. in Information and Computer Science, Apr. 2023 - Sep. 2024
-    institution: Keio University, Apr. 2023 - Present
+    institution: Keio University, Apr. 2023 - Sep. 2024
   - area: "B.E. in Information and Computer Science (GPA: 3.88/4.00)"
     institution: Keio University, Apr. 2019 - Mar. 2023
 
@@ -176,6 +175,6 @@ awards:
 
 # Biography
 
-I am a Master's student advised by [Prof. Komei Sugiura](https://komeisugiura.jp/index_en.html) at [Keio University](https://www.keio.ac.jp/en/) in Japan.
+I am a Ph.D. student advised by [Prof. Komei Sugiura](https://komeisugiura.jp/index_en.html) at [Keio University](https://www.keio.ac.jp/en/) in Japan.
 
 My goal is to contribute to the realization of human well-being through technological innovations in embodied AI.
