@@ -206,6 +206,7 @@ sections:
       title: '📰 Misc'
       subtitle: ''
       text: |
+        - 日刊工業新聞 (19面), 「<a href="https://www.nikkan.co.jp/articles/view/00724640">慶大、実世界検索エンジンで物探しの推薦効率向上</a>」, 2024年9月16日.
         - Research demonstration for the U.S. Ambassador to the United Nations and the State Minister for Foreign Affairs of Japan.
           - Keio University, "<a href="https://www.keio.ac.jp/en/news/2024/Apr/30/48-158580/">US Ambassador to the United Nations Linda Thomas-Greenfield Visits Keio University</a>," Apr. 30, 2024.
           - Ministry of Foreign Affairs of Japan, "<a href="https://www.mofa.go.jp/press/release/pressite_000001_00289.html">Participation of State Minister for Foreign Affairs TSUJI Kiyoto in Japan-U.S. Joint Event on Artificial Intelligence (AI)</a>," Apr. 18, 2024.
