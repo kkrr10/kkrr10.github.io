@@ -57,11 +57,11 @@ interests:
 education:
   # - area: Ph.D. student in Information and Computer Science, Sep. 2024 - Present
   #   institution: Keio University
-  - area: M.S. in Information and Computer Science, Apr. 2023 - Present
+  - area: "M.S. in Information and Computer Science (GPA: 3.93/4.00)"
   # - area: M.S. in Information and Computer Science, Apr. 2023 - Sep. 2024
-    institution: Keio University
-  - area: B.E. in Information and Computer Science, Apr. 2019 - Mar. 2023
-    institution: Keio University
+    institution: Keio University, Apr. 2023 - Present
+  - area: "B.E. in Information and Computer Science (GPA: 3.88/4.00)"
+    institution: Keio University, Apr. 2019 - Mar. 2023
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
