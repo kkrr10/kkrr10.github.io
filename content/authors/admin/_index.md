@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: JSPS Research Fellow (DC1)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
