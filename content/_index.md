@@ -163,7 +163,7 @@ sections:
       text: |
         ### Fellowships
         1. <div style="font-size: 0.8em"><a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowship for Young Scientists (DC1)</a>, <strong>JPY 200,000/month</strong>, Apr. 2025 - Mar. 2028.</div>
-        1. <div style="font-size: 0.8em"><a href="https://www.jst.go.jp/program/boost/">JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas (BOOST)</a>, <strong>JPY 300,000/month</strong>, Sep. 2024 - Mar. 2025.</div>
+        1. <div style="font-size: 0.8em"><a href="https://www.jst.go.jp/program/boost/">JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas (BOOST)</a>, <strong>JPY 300,000/month</strong>, Oct. 2024 - Mar. 2025.</div>
 
         ### Scholarships
         1. <div style="font-size: 0.8em">Repayment Exemption of <a href="https://www.jasso.go.jp/en/index.html">JASSO Scholarship (Category 1)</a>, <strong>JPY 1,584,000</strong>, Apr. 2023 - Sep. 2024.</div>
