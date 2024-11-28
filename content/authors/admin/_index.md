@@ -35,16 +35,14 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/kkrr10_
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/ryosuke-korekata-111953333
   - icon: brands/github
     url: https://github.com/kkrr10
-  # TODO:
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.co.jp/citations?user=zcbtV6QAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-0354-9070
-# TODO: CV
 
 interests:
   - Intelligent Robotics
