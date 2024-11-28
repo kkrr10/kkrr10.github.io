@@ -9,6 +9,15 @@ sections:
       subtitle: ''
       text: |
         ### International Conference<a name="international"></a>
+        1. <a href="https://speakerdeck.com/keio_smilab/iros24-learning-to-rank-approach-for-identifying-everyday-objects-using-a-physical-world-search-engine">MultiRankIt [Kaneda+, RA-L/IROS24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/6b8ad3ed7b5d4674a0d3897e4ed10cdb"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
         1. <a href="https://speakerdeck.com/keio_smilab/iros23-switching-head-tail-funnel-uniter-for-dual-referring-expression-comprehension-with-fetch-and-carry-tasks">SHeFU [Korekata+, IROS23]</a>
             <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
                 <iframe
