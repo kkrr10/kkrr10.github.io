@@ -169,8 +169,9 @@ sections:
         1. <div style="font-size: 0.8em"><a href="https://www.jst.go.jp/program/boost/">JST Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas (BOOST)</a>, <strong>JPY 300K/month</strong>, Oct. 2024 - Mar. 2025.</div>
 
         ### Scholarships
+        1. <div style="font-size: 0.8em">Keio Graduate School Scholarship, <strong>JPY 500K</strong>, 2024 (Fall).</div>
         1. <div style="font-size: 0.8em">Repayment Exemption of <a href="https://www.jasso.go.jp/en/index.html">JASSO Scholarship (Category 1)</a>, <strong>JPY 1,584K</strong>, Apr. 2023 - Sep. 2024.</div>
-        1. <div style="font-size: 0.8em">Keio Graduate School Scholarship, <strong>JPY 500K</strong>, 2024.</div>
+        1. <div style="font-size: 0.8em">Keio Graduate School Scholarship, <strong>JPY 500K</strong>, 2024 (Spring).</div>
         1. <div style="font-size: 0.8em">Keio Graduate School Scholarship, <strong>JPY 500K</strong>, 2023.</div>
         1. <div style="font-size: 0.8em"><a href="https://www.dentsu-ikueikai.or.jp/scholarship/">DENTSU Scholarship Foundation for Graduate Students</a>, <strong>JPY 1,440K</strong>, Apr. 2023 - Sep. 2024.</div>
         1. <div style="font-size: 0.8em">Keio University Scholarship, <strong>JPY 250K</strong>, 2022.</div>
