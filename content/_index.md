@@ -14,6 +14,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      button:
+        text: CV
+        url: uploads/CV_ryosuke_korekata_20241007.pdf
     design:
       css_class: dark
       background:
