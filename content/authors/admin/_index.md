@@ -101,6 +101,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 全国大会優秀賞
+    url: https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/
+    # TODO: 日付仮
+    date: '2024-11-01'
+    awarder: 第38回人工知能学会全国大会
+    summary: |
+      全国大会で発表された946件の中から特に優秀な研究を発表した上位約3.3%が選出され，授与される．
+      "マルチモーダル基盤モデルと緩和対照損失を用いた大規模屋内検索エンジン," <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3O5OS16c04/_pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/jsai24-large-scale-indoor-search-engine-with-multimodal-foundation-models-and-relaxing-contrastive-loss">slide</a>.
   - title: 優秀賞
     url: https://www.tome.jp/business/kenshouronbun_kako.html
     date: '2023-11-18'

@@ -67,6 +67,7 @@ sections:
                 </iframe>
             </div>
         1. <a href="https://speakerdeck.com/keio_smilab/jsai24-large-scale-indoor-search-engine-with-multimodal-foundation-models-and-relaxing-contrastive-loss">[今井+, JSAI24]</a>
+            - 🏆<a href="https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/"><strong>全国大会優秀賞</strong></a>
             <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
                 <iframe
                     src="https://speakerdeck.com/player/fca0a12d5ca147d3884a7ce8a00f8794"
