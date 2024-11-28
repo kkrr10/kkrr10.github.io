@@ -223,6 +223,10 @@ sections:
         - ロボ學, 「<a href="https://robogaku.jp/news/2023/rsj2022_4f3.html">学生編集委員企画：第40回日本ロボット学会学術講演会レポート（OS16：確率ロボティクスとデータ工学ロボティクス〜認識・行動学習・記号創発〜（4/4））</a>」, 2023年2月14日.
         - <a href="https://www.oreilly.co.jp/books/9784873119755/">ゼロから作るDeep Learning ❹ ―強化学習編</a>, <a href="https://tree-radius-a8e.notion.site/442ed77a97a64bd8aa5527fe66009817?v=dedb2b6f537c49278d07f6c8e7ebbbea">公開レビュー</a>, 2022年4月6日.
         - Journal Club (in Japanese🎌)
+          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ram-retrieval-based-affordance-transfer-for-generalizable-zero-shot-robotic-manipulation">RAM [Kuang+, CoRL24]</a>
+          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-language-embedded-gaussian-splats-legs-incrementally-building-room-scale-representations-with-a-mobile-robot">LEGS [Yu+, IROS24]</a>
+          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-seeing-the-unseen-visual-common-sense-for-semantic-placement">Semantic Placement [Ramrakhya+, CVPR24]</a>
+          1. <a href="https://speakerdeck.com/keio_smilab/journal-club-moka-open-vocabulary-robotic-manipulation-through-mark-based-visual-prompting">MOKA [Fang+, RSS24]</a>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rrex-bot-remote-referring-expressions-with-a-bag-of-tricks">RREx-BoT [Sigurdsson+, IROS23]</a>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-tidybot-personalized-robot-assistance-with-large-language-models">TidyBot [Wu+, IROS23]</a>
           1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ifor-iterative-flow-minimization-for-robotic-object-rearrangement">IFOR [Goyal+, CVPR22]</a>

@@ -123,6 +123,42 @@ sections:
             </div>
 
         ### Journal Club (in Japanese🎌)<a name="journal-club"></a>
+        1. <a href="https://speakerdeck.com/keio_smilab/journal-club-ram-retrieval-based-affordance-transfer-for-generalizable-zero-shot-robotic-manipulation">RAM [Kuang+, CoRL24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/4379917e0a46471b8b3db99a7da3ec4d"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        1. <a href="https://speakerdeck.com/keio_smilab/journal-club-language-embedded-gaussian-splats-legs-incrementally-building-room-scale-representations-with-a-mobile-robot">LEGS [Yu+, IROS24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/f79432f9dc124de6b0dd952538b90428"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        1. <a href="https://speakerdeck.com/keio_smilab/journal-club-seeing-the-unseen-visual-common-sense-for-semantic-placement">Semantic Placement [Ramrakhya+, CVPR24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/5a6a8a40e78a43dcb66b51685767033f"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        1. <a href="https://speakerdeck.com/keio_smilab/journal-club-moka-open-vocabulary-robotic-manipulation-through-mark-based-visual-prompting">MOKA [Fang+, RSS24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://speakerdeck.com/player/bc089c18f3514cdd9c966efc6b0d9ef0"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
         1. <a href="https://speakerdeck.com/keio_smilab/journal-club-rrex-bot-remote-referring-expressions-with-a-bag-of-tricks">RREx-BoT [Sigurdsson+, IROS23]</a>
             <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
                 <iframe
