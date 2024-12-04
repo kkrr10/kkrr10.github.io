@@ -57,7 +57,7 @@ education:
     institution: Keio University, Sep. 2024 - Present
   - area: "M.S. in Information and Computer Science (GPA: 3.93/4.00)"
     institution: Keio University, Apr. 2023 - Sep. 2024
-  - area: "B.E. in Information and Computer Science (GPA: 3.88/4.00)"
+  - area: "B.E. in Information and Computer Science (GPA: 3.88/4.00, graduate at the top)"
     institution: Keio University, Apr. 2019 - Mar. 2023
 
 # Skills
