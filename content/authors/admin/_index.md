@@ -57,7 +57,7 @@ education:
     institution: Keio University, Sep. 2024 - Present
   - area: "M.S. in Information and Computer Science (GPA: 3.93/4.00)"
     institution: Keio University, Apr. 2023 - Sep. 2024
-  - area: "B.E. in Information and Computer Science (GPA: 3.88/4.00, graduate at the top)"
+  - area: "B.E. in Information and Computer Science (GPA: 3.88/4.00, graduated at the top)"
     institution: Keio University, Apr. 2019 - Mar. 2023
 
 # Skills
@@ -123,7 +123,7 @@ awards:
     summary: |
       インテリジェントホームロボティクスOSにおける28件の研究発表の中から2件が選出され，授与される．
       "マルチモーダル基盤モデルによる対象物体抽出に基づく日常物体検索および物体操作," <a href="https://smilab.org/pdf/2023/2023-09-19T13:48:11+09:00_Shunya_Nagashima.pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/rsj23-everyday-object-search-and-manipulation-based-on-target-object-extraction-using-multimodal-foundation-models">slide</a>.
-  - title: 1st Place in DialFRED Challenge @ CVPRW23
+  - title: 1st Place in the DialFRED Challenge @ CVPRW23
     url: https://embodied-ai.org/cvpr2023/
     date: '2023-06-19'
     awarder: IEEE/CVF CVPR 2023 Embodied AI Workshop
@@ -148,7 +148,7 @@ awards:
     date: '2022-08-19'
     awarder: REVERIE Challenge @ CSIG 2022
     summary: |
-      Top-5 places out of 52 participating teams in the international competition on Vision-and-Language Navigation were awarded. <a href="https://www.ics.keio.ac.jp/awards/%E6%9D%89%E6%B5%A6%E5%AD%94%E6%98%8E%E7%A0%94m2%E7%A5%9E%E5%8E%9F%E5%90%9B%E3%83%BB%E5%90%89%E7%94%B0%E5%90%9B%EF%BC%8Cm1%E5%85%BC%E7%94%B0%E5%90%9B%EF%BC%8Cb4%E5%B0%8F%E6%A7%BB%E5%90%9B%E3%83%BB/">link</a>.
+      The top 5 teams out of 52 participants in the international competition on Vision-and-Language Navigation were awarded. <a href="https://www.ics.keio.ac.jp/awards/%E6%9D%89%E6%B5%A6%E5%AD%94%E6%98%8E%E7%A0%94m2%E7%A5%9E%E5%8E%9F%E5%90%9B%E3%83%BB%E5%90%89%E7%94%B0%E5%90%9B%EF%BC%8Cm1%E5%85%BC%E7%94%B0%E5%90%9B%EF%BC%8Cb4%E5%B0%8F%E6%A7%BB%E5%90%9B%E3%83%BB/">link</a>.
   - title: 教育貢献賞
     url: https://aic.keio.ac.jp/
     date: '2021-03-24'
