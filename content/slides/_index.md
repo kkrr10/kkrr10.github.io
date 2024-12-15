@@ -39,6 +39,15 @@ sections:
             </div>
 
         ### Domestic Conference (in Japanese🎌)<a name="domestic"></a>
+        1. <a href="../uploads/korekata_aic24-winter/slide.pdf">[是方, AIC24]</a>
+            <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
+                <iframe
+                    src="../uploads/korekata_aic24-winter/slide.pdf"
+                    style="position: absolute; top: 10px; left: 0; width: 100%; height: 100%; border: 0;"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+            </div>
         1. <a href="https://speakerdeck.com/keio_smilab/rsj24-object-retrieval-in-large-scale-indoor-environments-using-dense-text-with-a-multi-modal-large-language-model">[今井+, RSJ24]</a>
             <div style="position: relative; width: 100%; padding-bottom: 56.25%; max-width: 710px; height: 0; overflow: hidden;">
                 <iframe
