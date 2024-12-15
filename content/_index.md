@@ -78,6 +78,7 @@ sections:
       subtitle: ''
       text: |
         ### Journal
+        1. <div style="font-size: 0.8em">D. Yashima, <u><strong>R. Korekata</strong></u>, K. Sugiura, "Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling," <strong>IEEE RA-L</strong>, 2025, to appear. (<strong>IF: 5.2</strong>)</div>
         1. <div style="font-size: 0.8em">K. Kaneda, S. Nagashima, <u><strong>R. Korekata</strong></u>, M. Kambara, K. Sugiura, "Learning-To-Rank Approach for Identifying Everyday Objects Using a Physical-World Search Engine," <strong>IEEE RA-L</strong>, Vol. 9, No. 3, pp. 2088-2095, 2024, <a href="https://ieeexplore.ieee.org/abstract/document/10387680">pdf</a>, <a href="https://github.com/keio-smilab23/MultiRankIt">code</a>, <a href="https://youtu.be/eBBLGP9g6Zo">video</a>, <a href="https://speakerdeck.com/keio_smilab/iros24-learning-to-rank-approach-for-identifying-everyday-objects-using-a-physical-world-search-engine">slide</a>. DOI: 10.1109/LRA.2024.3352363 (<strong>IF: 5.2</strong>)</div>
 
         ### International Conference
