@@ -108,7 +108,7 @@ awards:
     awarder: 第38回人工知能学会全国大会
     summary: |
       全国大会で発表された946件の中から特に優秀な研究を発表した上位約3.3%が選出され，授与される．
-      "マルチモーダル基盤モデルと緩和対照損失を用いた大規模屋内検索エンジン," <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3O5OS16c04/_pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/jsai24-large-scale-indoor-search-engine-with-multimodal-foundation-models-and-relaxing-contrastive-loss">slide</a>.
+      "マルチモーダル基盤モデルと緩和対照損失を用いた大規模屋内検索エンジン," <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3O5OS16c04/_pdf">pdf</a>, <a href="https://speakerdeck.com/keio_smilab/jsai24-large-scale-indoor-search-engine-with-multimodal-foundation-models-and-relaxing-contrastive-loss">slide</a>, <a href="https://www.ics.keio.ac.jp/awards/%E6%9D%89%E6%B5%A6%E5%AD%94%E6%98%8E%E7%A0%94%E3%81%AEm1%E4%BB%8A%E4%BA%95%E5%90%9B%E3%80%81d1%E6%98%AF%E6%96%B9%E5%90%9B%E3%81%8C%E3%80%812024%E5%B9%B4%E5%BA%A6%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/">news</a>.
   - title: 優秀賞
     url: https://www.tome.jp/business/kenshouronbun_kako.html
     date: '2023-11-18'
@@ -148,7 +148,7 @@ awards:
     date: '2022-08-19'
     awarder: REVERIE Challenge @ CSIG 2022
     summary: |
-      The top 5 teams out of 52 participants in the international competition on Vision-and-Language Navigation were awarded. <a href="https://www.ics.keio.ac.jp/awards/%E6%9D%89%E6%B5%A6%E5%AD%94%E6%98%8E%E7%A0%94m2%E7%A5%9E%E5%8E%9F%E5%90%9B%E3%83%BB%E5%90%89%E7%94%B0%E5%90%9B%EF%BC%8Cm1%E5%85%BC%E7%94%B0%E5%90%9B%EF%BC%8Cb4%E5%B0%8F%E6%A7%BB%E5%90%9B%E3%83%BB/">link</a>.
+      The top 5 teams out of 52 participants in the international competition on Vision-and-Language Navigation were awarded. <a href="https://www.ics.keio.ac.jp/awards/%E6%9D%89%E6%B5%A6%E5%AD%94%E6%98%8E%E7%A0%94m2%E7%A5%9E%E5%8E%9F%E5%90%9B%E3%83%BB%E5%90%89%E7%94%B0%E5%90%9B%EF%BC%8Cm1%E5%85%BC%E7%94%B0%E5%90%9B%EF%BC%8Cb4%E5%B0%8F%E6%A7%BB%E5%90%9B%E3%83%BB/">news</a>.
   - title: 教育貢献賞
     url: https://aic.keio.ac.jp/
     date: '2021-03-24'

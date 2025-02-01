@@ -217,6 +217,7 @@ sections:
       subtitle: ''
       text: |
         - 日刊工業新聞 (19面), 「<a href="https://www.nikkan.co.jp/articles/view/00724640">慶大、実世界検索エンジンで物探しの推薦効率向上</a>」, 2024年9月16日.
+          - 慶應義塾大学大学院 理工学研究科 開放環境科学専攻 情報工学専修, 「<a href="https://www.ics.keio.ac.jp/activities/%e3%80%90%e5%a0%b1%e9%81%93%e7%99%ba%e8%a1%a8%e3%80%91%e6%9d%89%e6%b5%a6%e5%ad%94%e6%98%8e%e7%a0%94%e3%81%aeb4%e5%85%ab%e5%b3%b6%e5%90%9b%e3%80%81m2%e6%98%af%e6%96%b9%e5%90%9b%e3%81%ae%e7%a0%94/">【報道発表】杉浦孔明研のB4八島君、M2是方君の研究が日刊工業新聞に掲載</a>」, 2024年9月23日.
         - Research demonstration for the U.S. Ambassador to the United Nations and the State Minister for Foreign Affairs of Japan.
           - Keio University, "<a href="https://www.keio.ac.jp/en/news/2024/Apr/30/48-158580/">US Ambassador to the United Nations Linda Thomas-Greenfield Visits Keio University</a>," Apr. 30, 2024.
           - Ministry of Foreign Affairs of Japan, "<a href="https://www.mofa.go.jp/press/release/pressite_000001_00289.html">Participation of State Minister for Foreign Affairs TSUJI Kiyoto in Japan-U.S. Joint Event on Artificial Intelligence (AI)</a>," Apr. 18, 2024.
