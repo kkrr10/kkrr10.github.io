@@ -59,7 +59,7 @@ jobs:
         path: ./public
         name: github-pages
     - name: Check uploaded artifact
-      run: echo "Artifact upload status: $(ls -la ./public)"
+      run: ls -la ./public
 
   # Deploy website to GitHub Pages hosting
   deploy:
