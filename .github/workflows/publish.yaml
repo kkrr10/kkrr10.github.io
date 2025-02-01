@@ -77,8 +77,9 @@ jobs:
       uses: actions/configure-pages@v4
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v3
       env:
         GITHUB_PAGES: true
       with:
         artifact_name: my-github-pages
+        token: ${{ secrets.GITHUB_TOKEN }}
